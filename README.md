@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Devmody1711
 - 👀 I’m interested in app development/AIML systems
-- 🌱 I’m currently in FY BTech Computer Engineering
+- 🌱 I’m currently in SY BTech Computer Engineering
 - 📫 How to reach me - devmody77@gmail.com
-  LinkedIn profile - www.linkedin.com/in/dev-mody-b7a626202
+  LinkedIn profile - https://www.linkedin.com/in/dev-mody-b7a626202
 
 
 <!---
